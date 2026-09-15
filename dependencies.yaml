@@ -23,7 +23,7 @@ casim:
 
 jules:
     source: git@github.com:mo-arthurargles/jules_red_veg3.git
-    ref: jules_red_veg3_couple_phenologyf
+    ref: jules_red_veg3_couple_phenology
 
 lfric_apps:
     source:
